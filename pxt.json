@@ -6,7 +6,8 @@
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
         "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "Color Fading": "github:jwunderl/pxt-color#v0.2.2"
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "color-coded-tilemap": "*"
     },
     "files": [
         "main.blocks",
@@ -20,7 +21,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.26",
+        "target": "1.12.29",
         "targetId": "arcade"
     },
     "supportedTargets": [
